@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "use": "paint",
+      "id": "green_metal_rust",
+      "name": "Green Metal Rust",
+      "authors": [
+        "Rob Tuytel"
+      ],
+      "license": "CC0",
+      "source": "https://polyhaven.com/a/green_metal_rust",
+      "metres": 1.0,
+      "mean": [
+        0.0463,
+        0.0714,
+        0.0301
+      ]
+    }
+  ]
+}

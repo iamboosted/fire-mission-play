@@ -1,0 +1,108 @@
+{
+  "dawn": {
+    "id": "kloppenheim_06_puresky",
+    "name": "Kloppenheim 06 (Pure Sky)",
+    "authors": [
+      "Greg Zaal",
+      "Jarod Guest"
+    ],
+    "source": "https://polyhaven.com/a/kloppenheim_06_puresky",
+    "license": "CC0",
+    "bgScale": 3.953718102496603,
+    "sun": [
+      0.7752,
+      0.1376,
+      0.6165
+    ],
+    "medianSky": 0.5676968693733215,
+    "horizon": [
+      1.0727,
+      0.8522,
+      0.7278
+    ]
+  },
+  "day": {
+    "id": "kloofendal_48d_partly_cloudy_puresky",
+    "name": "Kloofendal 48d Partly Cloudy (Pure Sky)",
+    "authors": [
+      "Greg Zaal",
+      "Jarod Guest"
+    ],
+    "source": "https://polyhaven.com/a/kloofendal_48d_partly_cloudy_puresky",
+    "license": "CC0",
+    "bgScale": 2.2552847862243652,
+    "sun": [
+      0.553,
+      0.743,
+      0.3769
+    ],
+    "medianSky": 0.3444511592388153,
+    "horizon": [
+      0.4345,
+      0.4669,
+      0.5656
+    ]
+  },
+  "dusk": {
+    "id": "belfast_sunset_puresky",
+    "name": "Belfast Sunset (Pure Sky)",
+    "authors": [
+      "Greg Zaal",
+      "Dimitrios Savva",
+      "Jarod Guest"
+    ],
+    "source": "https://polyhaven.com/a/belfast_sunset_puresky",
+    "license": "CC0",
+    "bgScale": 10.194447766179623,
+    "sun": [
+      0.7933,
+      0.0399,
+      0.6075
+    ],
+    "medianSky": 0.9292734861373901,
+    "horizon": [
+      4.6302,
+      2.7074,
+      1.4087
+    ]
+  },
+  "night": {
+    "id": "kloppenheim_02_puresky",
+    "name": "Kloppenheim 02 (Pure Sky)",
+    "authors": [
+      "Greg Zaal",
+      "Jarod Guest"
+    ],
+    "source": "https://polyhaven.com/a/kloppenheim_02_puresky",
+    "license": "CC0",
+    "bgScale": 1.1982898349347322,
+    "sun": [
+      0.7765,
+      0.2932,
+      0.5577
+    ],
+    "medianSky": 0.1262853592634201,
+    "horizon": [
+      0.3561,
+      0.4199,
+      0.4947
+    ]
+  },
+  "overcast": {
+    "id": "kloofendal_overcast_puresky",
+    "name": "Kloofendal Overcast (Pure Sky)",
+    "authors": [
+      "Greg Zaal"
+    ],
+    "source": "https://polyhaven.com/a/kloofendal_overcast_puresky",
+    "license": "CC0",
+    "bgScale": 3.5017358220141865,
+    "sun": null,
+    "medianSky": 1.0500797033309937,
+    "horizon": [
+      0.6648,
+      0.7055,
+      0.7869
+    ]
+  }
+}
