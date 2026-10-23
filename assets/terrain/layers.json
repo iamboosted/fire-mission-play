@@ -1,0 +1,134 @@
+{
+  "size": 1024,
+  "layers": [
+    {
+      "layer": "grass",
+      "id": "grass_ground",
+      "name": "Grass Ground",
+      "authors": [
+        "Charlotte Baglioni"
+      ],
+      "source": "https://polyhaven.com/a/grass_ground",
+      "license": "CC0",
+      "metres": 2.51,
+      "mean": [
+        0.1602,
+        0.1192,
+        0.0457
+      ]
+    },
+    {
+      "layer": "dry",
+      "id": "withered_grass",
+      "name": "Withered Grass",
+      "authors": [
+        "Charlotte Baglioni"
+      ],
+      "source": "https://polyhaven.com/a/withered_grass",
+      "license": "CC0",
+      "metres": 2.0,
+      "mean": [
+        0.4336,
+        0.3105,
+        0.2047
+      ]
+    },
+    {
+      "layer": "plough",
+      "id": "brown_mud_02",
+      "name": "Brown Mud 02",
+      "authors": [
+        "Rob Tuytel"
+      ],
+      "source": "https://polyhaven.com/a/brown_mud_02",
+      "license": "CC0",
+      "metres": 1.3,
+      "mean": [
+        0.0777,
+        0.06,
+        0.038
+      ]
+    },
+    {
+      "layer": "earth",
+      "id": "forest_ground_04",
+      "name": "Forest Ground 04",
+      "authors": [
+        "Rob Tuytel",
+        "Rico Cilliers"
+      ],
+      "source": "https://polyhaven.com/a/forest_ground_04",
+      "license": "CC0",
+      "metres": 3.15,
+      "mean": [
+        0.1537,
+        0.1077,
+        0.0611
+      ]
+    },
+    {
+      "layer": "forest",
+      "id": "forest_leaves_02",
+      "name": "Forest Leaves 02",
+      "authors": [
+        "Rob Tuytel"
+      ],
+      "source": "https://polyhaven.com/a/forest_leaves_02",
+      "license": "CC0",
+      "metres": 3.001,
+      "mean": [
+        0.3001,
+        0.18,
+        0.0543
+      ]
+    },
+    {
+      "layer": "rock",
+      "id": "rock_ground_02",
+      "name": "Rock Ground 02",
+      "authors": [
+        "Rob Tuytel"
+      ],
+      "source": "https://polyhaven.com/a/rock_ground_02",
+      "license": "CC0",
+      "metres": 3.0,
+      "mean": [
+        0.1966,
+        0.1691,
+        0.1217
+      ]
+    },
+    {
+      "layer": "gravel",
+      "id": "rocky_trail",
+      "name": "Rocky Trail",
+      "authors": [
+        "Amal Kumar"
+      ],
+      "source": "https://polyhaven.com/a/rocky_trail",
+      "license": "CC0",
+      "metres": 2.0,
+      "mean": [
+        0.3055,
+        0.2277,
+        0.1522
+      ]
+    },
+    {
+      "layer": "scorch",
+      "id": "burned_ground_01",
+      "name": "Burned Ground 01",
+      "authors": [
+        "Rob Tuytel"
+      ],
+      "source": "https://polyhaven.com/a/burned_ground_01",
+      "license": "CC0",
+      "metres": 1.0,
+      "mean": [
+        0.1559,
+        0.115,
+        0.0805
+      ]
+    }
+  ]
+}

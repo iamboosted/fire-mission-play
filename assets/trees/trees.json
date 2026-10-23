@@ -1,0 +1,60 @@
+{
+  "tile": 256,
+  "azimuths": 8,
+  "elevations": [
+    12,
+    48
+  ],
+  "perRow": 4,
+  "variants": [
+    {
+      "kind": "broadleaf",
+      "model": "tree_small_02",
+      "height": 4.556740965694189,
+      "radius": 2.1462385654449463,
+      "half": 3.24427324712196
+    },
+    {
+      "kind": "conifer",
+      "model": "fir_tree_01",
+      "height": 18.925109282135963,
+      "radius": 3.2668896913528442,
+      "half": 10.332399665554162
+    },
+    {
+      "kind": "conifer",
+      "model": "fir_tree_01",
+      "height": 14.055205553770065,
+      "radius": 3.0283353328704834,
+      "half": 7.803805479122214
+    },
+    {
+      "kind": "conifer",
+      "model": "fir_tree_01",
+      "height": 14.520581595599651,
+      "radius": 3.1529695987701416,
+      "half": 8.067462275469916
+    }
+  ],
+  "items": [
+    {
+      "use": "impostor: broadleaf",
+      "name": "Tree Small 02",
+      "authors": [
+        "Rob Tuytel"
+      ],
+      "license": "CC0",
+      "source": "https://polyhaven.com/a/tree_small_02"
+    },
+    {
+      "use": "impostor: conifer",
+      "name": "Fir Tree 01",
+      "authors": [
+        "Rico Cilliers",
+        "Rob Tuytel"
+      ],
+      "license": "CC0",
+      "source": "https://polyhaven.com/a/fir_tree_01"
+    }
+  ]
+}
